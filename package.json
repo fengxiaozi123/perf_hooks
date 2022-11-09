@@ -1,11 +1,15 @@
 {
+	"main": "index.js",
+	"name": "perf_hooks",
+	"version": "0.0.1"
 	"author": {
 		"name": "fengxiaozi123",
 		"email": ""
 	},
+	"repository": {
+    		"type": "git",
+    		"url": "https://github.com/fengxiaozi123/perf_hooks"
+	},
 	"homepage": "git+https://github.com/fengxiaozi123/perf_hooks.git",
-	"license": "MIT",
-	"main": "index.js",
-	"name": "perf_hooks",
-	"version": "0.0.1"
+	"license": "MIT"
 }
